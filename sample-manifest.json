@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5318dfac-16c1-43bf-9984-0ea9971954b6",
+  "export_job_id": "180af31c-3fb1-46fb-b98e-285158462d9d",
   "id_short": 235214,
-  "published_at": "2026-04-17T19:41:25Z",
+  "published_at": "2026-04-21T19:12:50Z",
   "repo_name": "all-restaurants-in-waukegan-illinois-us-sample-235214",
   "sample_asset_name": "beamstation_235214_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/235214/beamstation_235214_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 45,
-  "sample_sha256": "407d9804fa29f07e08e68747a8e4041fba717bdc29f4c404e60efd3889bea7d6",
-  "sample_size_bytes": 163291,
-  "total_records": 453
+  "sample_records": 41,
+  "sample_sha256": "fd768c4fa211e875c85da62d14de8c37fd3c1a58db34f89bfcf74f41e15bf291",
+  "sample_size_bytes": 155823,
+  "total_records": 414
 }
