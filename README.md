@@ -1,6 +1,6 @@
 # All Restaurants in Waukegan, Illinois, US
 
-> Free BeamStation sample export with 46 rows and masked direct-contact fields.
+> Free BeamStation sample export with 48 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `235214` |
 | Location | Waukegan |
 | Category | Restaurants |
-| Full dataset size | 465 records |
-| Free sample size | 46 records (9.89%) |
-| Last export | 2026-04-28T13:31:57.212231+00:00 |
+| Full dataset size | 483 records |
+| Free sample size | 48 records (9.94%) |
+| Last export | 2026-05-06T01:15:11.961806+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-waukegan-illinois-us-sample-235214/releases/download/sample-latest/beamstation_235214_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
